@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/payu",
+    "name": "ertiz/omnipay-payu",
     "type": "library",
     "description": "PayU driver for the Omnipay payment processing library",
     "keywords": [
