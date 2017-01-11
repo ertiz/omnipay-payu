@@ -11,23 +11,23 @@
         "payu",
         "purchase"
     ],
-    "homepage": "https://github.com/efesaid/omnipay-payu",
+    "homepage": "https://github.com/ertiz/omnipay-payu",
     "license": "MIT",
     "authors": [
         {
-            "name": "Said İmamoğlu",
-            "email": "said.imamoglu@biberltd.com"
+            "name": "Erman Titiz",
+            "email": "erman.titiz@bodevoffice.com"
         },
         {
             "name": "Omnipay Contributors",
-            "homepage": "https://github.com/efesaid/omnipay-payu/contributors"
+            "homepage": "https://github.com/ertiz/omnipay-payu/contributors"
         }
     ],
     "autoload": {
         "psr-4": { "Omnipay\\PayU\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~2.0"
+        "omnipay/common": "~3.0"
     },
     "require-dev": {
         "omnipay/tests": "~2.0"
