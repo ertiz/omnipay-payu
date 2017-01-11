@@ -16,7 +16,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "omnipay/payu": "~2.0"
+        "ertiz/omnipay-payu": "~1.0"
     }
 }
 ```
